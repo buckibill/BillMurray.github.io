@@ -1,0 +1,25 @@
+.main-content{
+
+    height: 960;
+    width: 960;
+    background-color: #fffff
+    border: solid red;
+}
+.links{
+    list-style: none;
+    margin:0;
+    justify-self: flex-end;
+    align-self: flex-end;
+    
+}
+.wrapper{
+    
+}
+
+.bottom_page{
+    background-color: #777777;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
